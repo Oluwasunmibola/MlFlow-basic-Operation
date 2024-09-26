@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sammyheart/Documents/Documents%20-%20Samiat%E2%80%99s%20MacBook%20Pro/personal/mlops_practise/mlruns/0/da5bd393b8f44b22a1e54a8ae9b74ded/artifacts
+end_time: 1727387050450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da5bd393b8f44b22a1e54a8ae9b74ded
+run_name: grandiose-wasp-444
+run_uuid: da5bd393b8f44b22a1e54a8ae9b74ded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727387049215
+status: 3
+tags: []
+user_id: sammyheart

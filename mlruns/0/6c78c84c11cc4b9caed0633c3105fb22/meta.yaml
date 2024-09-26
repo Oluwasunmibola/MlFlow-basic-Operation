@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sammyheart/Documents/Documents%20-%20Samiat%E2%80%99s%20MacBook%20Pro/personal/mlops_practise/mlruns/0/6c78c84c11cc4b9caed0633c3105fb22/artifacts
+end_time: 1727387033058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c78c84c11cc4b9caed0633c3105fb22
+run_name: placid-squirrel-866
+run_uuid: 6c78c84c11cc4b9caed0633c3105fb22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727387031861
+status: 3
+tags: []
+user_id: sammyheart

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sammyheart/Documents/Documents%20-%20Samiat%E2%80%99s%20MacBook%20Pro/personal/mlops_practise/mlruns/0/3e4c635b80094426a83fbfd87399823d/artifacts
+end_time: 1727387059823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e4c635b80094426a83fbfd87399823d
+run_name: victorious-loon-955
+run_uuid: 3e4c635b80094426a83fbfd87399823d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727387058444
+status: 3
+tags: []
+user_id: sammyheart
